@@ -2,7 +2,9 @@ Kalkulator ini dibuat menggunakan vanila HTML&CSS serta JavaScript.
 
 ### Screenshot
 
-![Desktop View](./desktop.png)![Mobile View](./mobile.png)
+|            Desktop             |            Mobile            |
+| :----------------------------: | :--------------------------: |
+| ![Desktop View](./desktop.png) | ![Mobile View](./mobile.png) |
 
 Fitur kalkulator :
 
