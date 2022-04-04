@@ -4,6 +4,13 @@
     padding: 0;
 }
 
+body {
+    background-image: url("https://bit.ly/3K5IR2U");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
 .calculator {
     text-align: center;
     margin: 0 auto;
